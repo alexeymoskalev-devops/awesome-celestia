@@ -1207,6 +1207,7 @@ https://www.youtube.com/watch?v=nmpfNXf797U
 - celestia-node compatible read API (`blob.Get`, `GetAll`, `GetProof`, `Included`): https://celestia-blobs-rpc.noders.services (Mainnet), https://celestia-t-blobs-rpc.noders.services (Mocha)
 - Open data manifests: https://celestia-blobs.noders.services/manifest.json , https://celestia-t-blobs.noders.services/manifest.json
 - Fibre blobs archived together with payment promises and validator signatures
+- `cba` CLI to inspect, verify and export blobs, open source (Apache-2.0): https://github.com/noders-team/celestia-blob-archive
 - S3 fallback for OP Stack rollups using Celestia alt-DA: Nillion, Manta, Derive, Orderly, Towns
 
 #### Celestia Hub
